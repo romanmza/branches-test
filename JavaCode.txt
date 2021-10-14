@@ -10,3 +10,8 @@ Coder 02
 primer cambio:
 
 sout
+
+
+segundo cambio:
+
+scan
